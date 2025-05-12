@@ -12,5 +12,29 @@
       "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzQ1LzcyLzQ1/LzM2MF9GXzEwNDU3/MjQ1ODZfZlZyUnRK/MGJFQWhHa2JPWEJG/SDFOdGttWmx3eEFy/RmwuanBn",
       "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip"
     }
+    {
+      "name": "Merge Texts",
+      "folder_name": "Merge_Tester",
+      "icon": "https://imgs.search.brave.com/y9JmRqWNEJ0waU2hvlUsR-g4It0IDdo9l_Nu_AxK5I0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vODcvUE5H/Lzk2L25vcnRvbl8x/NjAxOC5wbmc",
+      "download_url": "https://github.com/ErenArkun/Merge-Texts-Ext/archive/refs/heads/main.zip"
+    },
+    {
+      "name": "Tumor Detector",
+      "folder_name": "tumor_detector",
+      "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzQ1LzcyLzQ1/LzM2MF9GXzEwNDU3/MjQ1ODZfZlZyUnRK/MGJFQWhHa2JPWEJG/SDFOdGttWmx3eEFy/RmwuanBn",
+      "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip"
+    }
+    {
+      "name": "Merge Texts",
+      "folder_name": "Merge_Tester",
+      "icon": "https://imgs.search.brave.com/y9JmRqWNEJ0waU2hvlUsR-g4It0IDdo9l_Nu_AxK5I0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vODcvUE5H/Lzk2L25vcnRvbl8x/NjAxOC5wbmc",
+      "download_url": "https://github.com/ErenArkun/Merge-Texts-Ext/archive/refs/heads/main.zip"
+    },
+    {
+      "name": "Tumor Detector",
+      "folder_name": "tumor_detector",
+      "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzQ1LzcyLzQ1/LzM2MF9GXzEwNDU3/MjQ1ODZfZlZyUnRK/MGJFQWhHa2JPWEJG/SDFOdGttWmx3eEFy/RmwuanBn",
+      "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip"
+    }
   ]
 }
