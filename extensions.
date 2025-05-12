@@ -1,0 +1,16 @@
+{
+  "extensions": [
+    {
+      "name": "Organ Segmenter",
+      "folder_name": "organ_segmenter",
+      "description": "Organları otomatik olarak segmentler.",
+      "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/organ_segmenter.zip"
+    },
+    {
+      "name": "Tumor Detector",
+      "folder_name": "tumor_detector",
+      "description": "Tümör tespiti yapar.",
+      "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip"
+    }
+  ]
+}
