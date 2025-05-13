@@ -8,11 +8,11 @@
       "main_folder": "merge_texts"
     },
     {
-      "name": "Tumor Detector",
-      "folder_name": "tumor_detector",
+      "name": "Nifti Görüntüleyici",
+      "folder_name": "nifti_viewer",
       "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5mdGNkbi5uZXQvanBnLzEwLzQ1LzcyLzQ1LzM2MF9GXzEwNDU3MjQ1ODZfZlZyUnRKMGJFQWhHa2JPWEJGSDFOdGttWmx3eEFyRmwuanBn",
-      "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip",
-      "main_folder": "tumor_detector"
+      "download_url": "https://github.com/ErenArkun/nifti_viewer/archive/refs/heads/main.zip",
+      "main_folder": "nifti_viewer"
     },
     {
       "name": "Face Filter",
