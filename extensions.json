@@ -3,49 +3,49 @@
     {
       "name": "Merge Texts",
       "folder_name": "Merge_Tester",
-      "icon": "https://imgs.search.brave.com/y9JmRqWNEJ0waU2hvlUsR-g4It0IDdo9l_Nu_AxK5I0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vODcvUE5H/Lzk2L25vcnRvbl8x/NjAxOC5wbmc",
+      "icon": "https://imgs.search.brave.com/y9JmRqWNEJ0waU2hvlUsR-g4It0IDdo9l_Nu_AxK5I0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMuaWNvbi1pY29ucy5jb20vODcvUE5HLzk2L25vcnRvbl8xNjAxOC5wbmc",
       "download_url": "https://github.com/ErenArkun/Merge-Texts-Ext/archive/refs/heads/main.zip",
       "main_folder": "merge_texts"
     },
     {
       "name": "Tumor Detector",
       "folder_name": "tumor_detector",
-      "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzQ1LzcyLzQ1/LzM2MF9GXzEwNDU3/MjQ1ODZfZlZyUnRK/MGJFQWhHa2JPWEJG/SDFOdGttWmx3eEFy/RmwuanBn",
+      "icon": "https://imgs.search.brave.com/pCbsLTqOIu48qejqkyaU4hWZWsyiF7xaKrV4v6VN4aU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5mdGNkbi5uZXQvanBnLzEwLzQ1LzcyLzQ1LzM2MF9GXzEwNDU3MjQ1ODZfZlZyUnRKMGJFQWhHa2JPWEJGSDFOdGttWmx3eEFyRmwuanBn",
       "download_url": "https://github.com/kullaniciAdi/repoAdi/raw/main/zips/tumor_detector.zip",
       "main_folder": "tumor_detector"
     },
     {
       "name": "Face Filter",
       "folder_name": "face_filter",
-      "icon": "https://imgs.search.brave.com/3D8_HOexAYbKtMbFiQq70VX3hGvx9o_FZMl1oHdfY5g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/c2V0cy5jb20vaW1h/Z2VzL2ZhY2Utcmln/aHRzLnBuZw",
+      "icon": "https://imgs.search.brave.com/3D8_HOexAYbKtMbFiQq70VX3hGvx9o_FZMl1oHdfY5g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29uc2V0cy5jb20vaW1hZ2VzL2ZhY2UtcmlnaHRzLnBuZw",
       "download_url": "https://github.com/example/face-filter-extension/archive/refs/heads/main.zip",
       "main_folder": "face_filter"
     },
     {
       "name": "Medical Image Enhancer",
       "folder_name": "med_img_enhancer",
-      "icon": "https://imgs.search.brave.com/8Z04pFQFJ9Ml-t_XcZ3Dx2a0EhIu69Btznr9xdBRmXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z4Lm5sL2lt/YWdlcy9hcnRpY2xl/cy8yMDIyLzA1L01l/ZGljYWwtSW1hZ2Ut/QW5hbHlzaXMuanBn",
+      "icon": "https://imgs.search.brave.com/8Z04pFQFJ9Ml-t_XcZ3Dx2a0EhIu69Btznr9xdBRmXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVtYnMuZ2Z4Lm5sL2ltYWdlcy9hcnRpY2xlcy8yMDIyLzA1L01lZGljYWwtSW1hZ2UtQW5hbHlzaXMuanBn",
       "download_url": "https://github.com/example/med-enhancer/archive/refs/heads/main.zip",
       "main_folder": "medical_image"
     },
     {
       "name": "Brain MRI Viewer",
       "folder_name": "brain_mri_viewer",
-      "icon": "https://imgs.search.brave.com/Q0RLFmj9zcvFJKq4nmub3rpK7QJ4grz46Nz3aJg_tFk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZGVzaWduYnVtYmxl/LmNvbS8zNzQwNDUv/MTIzNzkxMi1jMDYz/LTVwcmV2aWV3Lmpw/Zw",
+      "icon": "https://imgs.search.brave.com/Q0RLFmj9zcvFJKq4nmub3rpK7QJ4grz46Nz3aJg_tFk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4uZGVzaWduYnVtYmxlLmNvbS8zNzQwNDUvMTIzNzkxMi1jMDYzLTVwcmV2aWV3LmpwZw",
       "download_url": "https://github.com/example/brain-mri/archive/refs/heads/main.zip",
       "main_folder": "brain_mri"
     },
     {
       "name": "PDF Annotator",
       "folder_name": "pdf_annotator",
-      "icon": "https://imgs.search.brave.com/pmZyRzV5TWgDyyGsbY28u3ZmKDpDE3Aq-ZMbzR8N5ZE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/cG5ndHJlZS5jb20v/cGRmLWFubm90YXRv/ci1pY29uL3BuZy1p/bWFnZS01MDgwLnBu/Zw",
+      "icon": "https://imgs.search.brave.com/pmZyRzV5TWgDyyGsbY28u3ZmKDpDE3Aq-ZMbzR8N5ZE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcucG5ndHJlZS5jb20vcGRmLWFubm90YXRvci1pY29uL3BuZy1pbWFnZS01MDgwLnBuZw",
       "download_url": "https://github.com/example/pdf-annotator/archive/refs/heads/main.zip",
       "main_folder": "pdf_ant"
     },
     {
       "name": "Emotion Recognizer",
       "folder_name": "emotion_recognizer",
-      "icon": "https://imgs.search.brave.com/SAbXOl2kUDlS96tkUVGLJtpt5pdSlx8zYt3GQOk6rLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZ2xvYmFsY2l0/aXplbi5jb20vYmxv/Zy9jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/My9FbW90aW9uUmVj/b2duaXRpb25fU29m/dHdhcmUucG5n",
+      "icon": "https://imgs.search.brave.com/SAbXOl2kUDlS96tkUVGLJtpt5pdSlx8zYt3GQOk6rLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3NldHMuZ2xvYmFsY2l0aXplbi5jb20vYmxvZy9jb250ZW50L3VwbG9hZHMvMjAyMi8wMy9FbW90aW9uUmVjb2duaXRpb25fU29mdHdhcmUucG5n",
       "download_url": "https://github.com/example/emotion-recognition/archive/refs/heads/main.zip",
       "main_folder": "emotion_recog"
     }
